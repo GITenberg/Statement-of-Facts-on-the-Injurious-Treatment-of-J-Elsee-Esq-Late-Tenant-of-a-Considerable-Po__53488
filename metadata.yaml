@@ -1,5 +1,8 @@
 _repo: Statement-of-Facts-on-the-Injurious-Treatment-of-J-Elsee-Esq-Late-Tenant-of-a-Considerable-Po__53488
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Elsee, John
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '47396'
     url: http://www.gutenberg.org/2009/agents/47396
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53488#Statement-of-Facts-on-the-Injurious-Treatment-of-J-Elsee-Esq-Late-Tenant-of-a-Considerable-Po_
 gutenberg_issued: '2016-11-09'
 gutenberg_type: Text
 identifiers:
