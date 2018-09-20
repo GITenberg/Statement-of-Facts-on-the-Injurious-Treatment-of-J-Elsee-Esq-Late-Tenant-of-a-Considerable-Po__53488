@@ -1,0 +1,27 @@
+_repo: Statement-of-Facts-on-the-Injurious-Treatment-of-J-Elsee-Esq-Late-Tenant-of-a-Considerable-Po__53488
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Elsee, John
+    alias: Elsee, J.
+    gutenberg_agent_id: '47396'
+    url: http://www.gutenberg.org/2009/agents/47396
+description: ''
+gutenberg_issued: '2016-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53488'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Elsee, John -- Trials, litigation, etc.'
+- !lcc 'HD'
+- !lcsh 'Land tenure -- Great Britain'
+- GITenberg
+title: "Statement of Facts, on the Injurious Treatment of J. Elsee, Esq.\r\nLate Tenant\
+  \ of a Considerable Portion of Havering Park Farm, in the Forest of Hainault, in\
+  \ Certain Transactions with the Commissioners of Woods and Forests, and Their Agents;\
+  \ To Which Are Added Notes in Illustration of the Gross Abuses of the Forest Laws."
+url: http://www.gutenberg.org/ebooks/53488
